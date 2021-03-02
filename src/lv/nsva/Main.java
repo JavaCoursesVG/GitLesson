@@ -7,5 +7,6 @@ public class Main {
         System.out.println("What is your name?");
         System.out.println("How old are you?");
         System.out.println("Male/Female?");
+        System.out.println("Do you have a dog?");
     }
 }
