@@ -1,8 +1,7 @@
 package lv.nsva;
 
-public class Main {
-
+public class Class1 {
     public static void main(String[] args) {
-        System.out.println("Hello!");
+        System.out.println("Line1");
     }
 }
